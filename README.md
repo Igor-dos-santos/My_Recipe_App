@@ -1,6 +1,9 @@
 # Recipe-App
 
-> The Recipe app is a classic example of a recipe website. It's a functional website that shows the list of foods and recipes and empower readers to interact with them by adding new foods and recipes. Users can access the services of the application by creatinf a new account or by login in if they already have account.
+> This recipe app is a simple recipes website where users can log in and out, add new 
+ingredients to their profiles and add recipes. They have the option of making the recipes 
+public or not and that will either display them on the public section to allow users not logged in to see the recipes. Logged in users can also see the amount of their shopping lists to cook a recipe based on the ingredients added by them.
+
 
 ## Preview
 
@@ -35,83 +38,9 @@
 ## Live version
 
 
-
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-- A text editor(preferably Visual Studio Code)
-
-### Install
-- Ruby
-- Ruby on Rails
-- PostgresSQL
-- Rspec
-
-### Using it Locally
-
-### Setup
-
-Install gems with:
-
-```
-bundle install
-```
-
-Setup database with:
-
-```
-rails db:create
-rails db:migrate
-```
-
-### Usage
-
-Start server with:
-
-```
-rails server
-```
-
-Visit http://localhost:3000/ in your browser.
-
-### Run tests
-
-Install npm with:
-
-```
-npm i
-```
-
-Install rspec with:
-
-```
-bundle install
-```
-
-and
-
-```
-rails generate rspec:install
-```
-
-run the test with:
-
-```
-rspec spec
-```
-
-### Open API documentation
-
-```
-Coming soon!
-```
-
-
 ## Visit 
 
-[Visit Repo](https://github.com/Igor-dos-santos)
+[Visit Repo](https://github.com/Igor-dos-santos/My_Recipe_App)
 
 
 ## Author

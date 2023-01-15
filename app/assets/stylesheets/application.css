@@ -23,9 +23,6 @@ body {
 }
 
 .session-msg {
-/*  display: flex;
-  justify-content: end;
-  margin: 100px 50px 50px 0;*/
   display: block;
   float: right;
   position: fixed;
@@ -88,7 +85,7 @@ body {
 /* users sessions styles */
 
 .session-h2 {
-  color: #2276f4;
+  color: #22df0e;
 }
 
 .session-c {
@@ -118,7 +115,7 @@ body {
 
 .home-h1 {
   font-size: 35px;
-  color: #2276f4;
+  color: #22df0e;
 }
 
 .home-p {
@@ -133,7 +130,7 @@ body {
 
 .foods-h3 {
   text-align: center;
-  color: #2276f4;
+  color: #22df0e;
 }
 
 .food-new-btn {
@@ -150,7 +147,7 @@ body {
 }
 
 .food-dlt-btn {
-  background-color: #2276f4;
+  background-color: #aa2424;
   border: none;
   padding: 8px 16px;
   border-radius: 5px;
@@ -164,7 +161,7 @@ body {
 }
 
 .foods-new-h3 {
-  color: #2276f4;
+  color: #22df0e;
 }
 
 .foods-new-div {
@@ -192,7 +189,7 @@ body {
 
 .recipes-h3 {
   text-align: center;
-  color: #2276f4;
+  color: #22df0e;
 }
 
 .recipe-new-btn {
@@ -221,7 +218,7 @@ body {
 }
 
 .recipe-dlt-btn {
-  background-color: #2276f4;
+  background-color: #aa2424;
   border: none;
   padding: 8px 16px;
   border-radius: 5px;
@@ -320,7 +317,7 @@ body {
 }
 
 .recipes-new-h3 {
-  color: #2276f4;
+  color: #22df0e;
 }
 
 /* public-recipes styles  */
@@ -331,7 +328,7 @@ body {
 
 .public-recipe-h2 {
   text-align: center;
-  color: #2276f4;
+  color: #22df0e;
 }
 
 .public-recipe-2c {
@@ -377,11 +374,11 @@ body {
 }
 
 .recipe-food-new-h3 {
-  color: #2276f4;
+  color: #22df0e;
 }
 
 /* shopping-list styles */
 
 .shop-heads {
-  color: #2276f4;
+  color: #22df0e;
 }

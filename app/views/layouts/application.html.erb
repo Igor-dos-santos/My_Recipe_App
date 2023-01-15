@@ -21,6 +21,8 @@
     
     <%= yield %>
 
+
+
     <div class="session-msg"> 
       <% if user_signed_in? %> 
         Not <%= current_user.name %>? Sign Out here&nbsp; <%= link_to "Sign out", destroy_user_session_path, :method => :delete, class: "sign-out-btn" %> 
@@ -29,6 +31,9 @@
       <% end %> 
     </div> 
 
+
     <%= render "shared/footer" %>
+  
+
   </body>
 </html>
