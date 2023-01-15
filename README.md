@@ -48,4 +48,6 @@ public or not and that will either display them on the public section to allow u
 👤 **Igor Dos Santos**
 
 - GitHub: [@Igor-dos-santos](https://github.com/Igor-dos-santos)
-- LinkedIn: [@igor-dos-santos](https://www.linkedin.com/in/igor-dos-santos/)# My_Recipe_App
+- LinkedIn: [@igor-dos-santos](https://www.linkedin.com/in/igor-dos-santos/)
+
+# My_Recipe_App
