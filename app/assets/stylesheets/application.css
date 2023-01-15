@@ -23,16 +23,21 @@ body {
 }
 
 .session-msg {
-  display: flex;
+/*  display: flex;
   justify-content: end;
-  margin: 100px 50px 50px 0;
+  margin: 100px 50px 50px 0;*/
+  display: block;
+  float: right;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
   font-size: 15px;
 }
 
 .sign-out-btn {
   text-decoration: none;
   color: #fff;
-  background-color: #2276f4;
+  background-color: #aa2424;
   padding: 4px 8px;
   border-radius: 8px;
   margin-top: -3px;
@@ -66,8 +71,12 @@ body {
 }
 
 .footer {
-  display: flex;
-  justify-content: center;
+  position: absolute;
+  float: right;
+  bottom: 0;
+  right: 40%;
+  height: 2.5rem; 
+
 }
 
 .footer-links {
